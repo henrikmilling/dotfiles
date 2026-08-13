@@ -1,0 +1,10 @@
+alias ll='ls -alGh'
+alias reload='exec zsh'
+alias h='history'
+alias hig='history | grep' 
+
+alias gs='git status -sb'
+alias gd='git diff'
+alias ..='cd ..'
+alias py='python'
+alias pt='pytest -q'
